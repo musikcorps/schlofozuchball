@@ -1,0 +1,29 @@
+body { background-color:#EEEEEE }
+body#off { background-color:#FFFFFF }
+
+p {font-family:Tahoma}
+
+h1, h2, h3, h4, h5, h6 { font-family:Arial; color: #3399FF }
+
+h1 { font-size:48px; text-decoration: underline overline; margin-top:50px }
+h2 { font-size:24px }
+h3 { font-size:18px; margin-top:20px }
+h4 { font-size:16px }
+h5 { font-size:14px; color: black }
+h4 { font-size:8px }
+
+li { font-family:Arial; font-size:13px; font-weight:bold; margin-top:3px }
+
+table { font-family:Arial; width: 100% }
+table#off { font-family:Arial; width: 400 px }
+th { background-color: #000000; color: #FFFFFF; font-weight: bold; font-size:10px }
+td { background-color: #BBDEFF }
+td#off { background-color: #FFFFFF }
+td#rahmen { background-color: #FFFFFF;border: 1px dotted black; }
+
+address { font-family:Arial; color: #3399FF; font-size:11px }
+
+a:link { color:#3399FF; font-weight:bold }
+a:visited { color:#3399FF; font-weight:bold }
+a:active { color:red; font-style:italic; font-weight:bold; text-align:right }
+a:hover { color: #000000; background-color: #3399FF }

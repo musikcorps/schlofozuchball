@@ -1,0 +1,10 @@
+belegter Speicherplatz:
+htdocs    : 5608
+mysql     : 120
+	v122164  -> 80
+	d00324cc  -> 40
+
+pop       : 32
+	m011897f  -> 32
+
+ssh       : 0
