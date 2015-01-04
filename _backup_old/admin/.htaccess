@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Admin-Bereich"
-AuthUserFile /www/htdocs/musicum/admin/.htusers
-require user musicum achim hanne toni
