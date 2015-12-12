@@ -4,7 +4,7 @@
 
 		<!-- Footer -->
 			<tr><td colspan="2" id="footer">
-				&copy; Musikcorps Niedernberg 2011-2015 | <a href="impressum.php">Impressum</a>
+				&copy; Musikcorps Niedernberg 2011-2016 | <a href="impressum.php">Impressum</a>
 			</td></tr>
 		<!-- Ende Footer -->
 

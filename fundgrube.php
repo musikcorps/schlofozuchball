@@ -8,7 +8,7 @@ include "template/headerMenu.php";
 
 <h2>Was ist die Fundgrube?</h2><br />
 Beim Schlofozuchball passiert es schnell, dass Du etwas verlierst.<br />
-Damit du deine Sachen möglichst schnell wiederbekommst, bieten wir 2015 wie bisher eine Fundgrube an.<br /><br />
+Damit du deine Sachen möglichst schnell wiederbekommst, bieten wir 2016 wie bisher eine Fundgrube an.<br /><br />
 Wenn Du <b>während der Veranstaltung</b> etwas verlierst, fragst Du bitte zuerst an der <b>Garderobe</b> nach, vielleicht es jemand bereits dort abgegeben...
 <br /><br />
 

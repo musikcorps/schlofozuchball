@@ -96,7 +96,7 @@ else
     // Bestätigung anzeigen
 ?>
 
-<h2>Du hast erfolgreich Karten für den Schlofozuchball 2015 reserviert!</h2><br />
+<h2>Du hast erfolgreich Karten für den Schlofozuchball 2016 reserviert!</h2><br />
 Ein Fenster mit deiner Bestellbestätigung sollte sich automatisch öffnen. Falls nicht, klicke bitte <a href="http://www.schlofozuchball.de/reservierung/bestaetigung.php?personalausweisnummer=<?php echo $persoNr; ?>&name=<?php echo $name; ?>" class="link" target="blank">hier</a>.<br /><br />
 
 <a href="index.php" class="link">Zurück zur Seite 'Alles auf einen Blick'</a>

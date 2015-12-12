@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Schlofozuchball 2015</title>
+		<title>Schlofozuchball 2016</title>
 		<link rel="stylesheet" type="text/css" href="css/default.css" />
 
 		<meta charset="utf-8" />
@@ -43,9 +43,8 @@
 				<table id="menu">
 					<tr><td><a href="index.php">Auf einen Blick</a></td></tr>
 					<tr><td><a href="infos.php">Infos</a></td></tr>
-                                        <tr><td><a href="reservierung.php">Karten-Reservierung</a></td></tr>
 					<tr><td><a href="weg.php">Wegbeschreibung</a></td></tr>
-                                        <tr><td><a href="werbung.php">Werbebanner</a></td></tr>
+          <tr><td><a href="werbung.php">Werbebanner</a></td></tr>
 					<tr><td><a href="fundgrube.php">Fundgrube</a></td></tr>
 					<tr><td><a href="impressum.php">Impressum</a></td></tr>
 				</table>

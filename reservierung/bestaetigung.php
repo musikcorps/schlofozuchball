@@ -14,7 +14,7 @@ if (isset($_GET["name"]) && trim($_GET["name"]) != "" && isset($_GET["personalau
 <p align="center"><img src="logo.gif" width="500">
 
 <h2 align="center">Reservierungbestätigung</h2>
-<h3 align="center">für den Schlofozuchball am 31.01.2015 für</h3>
+<h3 align="center">für den Schlofozuchball am 31.01.2016 für</h3>
 <h2 align="center"><?php echo $name; ?></h2>
 
 <p align="center">

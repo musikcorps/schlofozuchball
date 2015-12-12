@@ -6,7 +6,10 @@
 //--------------------------------------------------------------------
 ?>
 
+<h1>Kartenreservierung wird nicht mehr angeboten.</h1>
+
 <?php
+die();
 // Header und Menü
 include "template/headerMenu.php";
 ?>
@@ -14,7 +17,7 @@ include "template/headerMenu.php";
 <h1>Karten-Reservierung</h1>
 <br />
 
-Ab jetzt kannst Du hier <b>online Karten</b> für den Schlofozuchball 2015 <b>reservieren</b>!<br /><br />
+Ab jetzt kannst Du hier <b>online Karten</b> für den Schlofozuchball 2016 <b>reservieren</b>!<br /><br />
 Du hast dadurch folgende <b>Vorteile</b>:
 <ul>
     <li>Einlass bis 21 Uhr garantiert</li>
