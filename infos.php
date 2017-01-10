@@ -9,7 +9,7 @@ include "template/headerMenu.php";
 <!--<a href="http://www.ts-rock.de/band.html" target="blank"><img src="bilder/bannerTS.jpg" alt="TS Rock" width="100%" /></a><br />-->
 
 <h2>Die Live-Band TS Rock</h2><br />
-In diesem Jahr spielt zum dritten Mal die Live-Band <b>TS Rock</b> TS wird mit erstklassigen <b>Cover-Versionen</b> für <b>gute Laune</b> sorgen und aktuelle Titel aus <b>House</b> und <b>Rock-Klassikern</b>, aber auch <b>Party-Hits</b> und <b>deutsche Songs</b> zum Besten geben.<br />
+In diesem Jahr spielt zum vierten Mal die Live-Band <b>TS Rock</b> TS wird mit erstklassigen <b>Cover-Versionen</b> für <b>gute Laune</b> sorgen und aktuelle Titel aus <b>House</b> und <b>Rock-Klassikern</b>, aber auch <b>Party-Hits</b> und <b>deutsche Songs</b> zum Besten geben.<br />
 Mehr über TS Rock erfahrt Ihr auf der offiziellen Internet-Seite <a href="http://www.ts-rock.de/band.html" target="blank">http://www.ts-rock.de</a>.
 <br /><br />
 

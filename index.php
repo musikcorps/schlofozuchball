@@ -3,9 +3,9 @@
 include "template/headerMenu.php";
 ?>
 
-<!--<img src="bilder/banner.png" width="100%" alt="Schlofozuchball 2016" /><br /><br />-->
+<!--<img src="bilder/banner.png" width="100%" alt="Schlofozuchball 2017" /><br /><br />-->
 
-<h1>Schlofozuchball 2016</h1>
+<h1>Schlofozuchball 2017</h1>
 <br />
 
 <span class="big"><b>Herzlich Willkommen</b> auf der offiziellen Webseite zum Niedernberger Schlofozuchball!</span>
@@ -33,9 +33,9 @@ Das Mindestalter ist 16 Jahre!
 </td><td class="separatorRight"></td><td>
 
 <span id="termin">
-<h2>Termin 2016</h2><br />
+<h2>Termin 2017</h2><br />
 <table border="0" cellspacing="0" cellpadding="5">
-<tr><td><b>Wann:</b></td><td>Samstag, der 23. Januar 2016, 20:00 Uhr<br /><i>(Einlass ab 19 Uhr)</i></td></tr>
+<tr><td><b>Wann:</b></td><td>Samstag, der 11. Februar 2017, 20:00 Uhr<br /><i>(Einlass ab 19 Uhr)</i></td></tr>
 <tr><td><b>Wo:</b></td><td>Hans Herrmann Halle, Niedernberg (siehe <a href="weg.php">Wegbeschreibung</a>)</td></tr>
 <tr><td><b>Einlass ab:</b></td><td>16 Jahren. Ausweiskontrolle!</td></tr>
 <tr><td><b>Motto:</b></td><td>Jeder kommt im Schlafanzug!</td></tr>
@@ -43,7 +43,7 @@ Das Mindestalter ist 16 Jahre!
 </span>
 
 <!--<span id="schlofozuchball-vorbei-hinweis">
-<span class="big"><b>Vielen Dank für einen gelungenen Schlofozuchball 2016!</b></span><br /><br />
+<span class="big"><b>Vielen Dank für einen gelungenen Schlofozuchball 2017!</b></span><br /><br />
 Wir hoffen, dass es Dir gefallen hat und dass Du nächstes jahr wieder kommst.<br /><br />
 <span class="big">Falls Du etwas verloren hast, kannst Du unsere <a href="fundgrube.php">Fundgrube</a> besuchen.</span>
 </span>-->
@@ -67,7 +67,7 @@ Bitte beachte für einen reibungslosen Abend folgende Punkte:<br />
 </td></tr></table>
 
 <h2>Du möchtest Werbung für den Schlofozuchball machen?</h2><br />
-<span class="big"><a href="werbung.php">Hier geht's zum offiziellen Werbebanner für den Schlofozuchball 2016</a></span>
+<span class="big"><a href="werbung.php">Hier geht's zum offiziellen Werbebanner für den Schlofozuchball 2017</a></span>
 
 
 <?php
