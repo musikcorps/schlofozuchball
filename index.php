@@ -35,7 +35,7 @@ Das Mindestalter ist 16 Jahre!
 <span id="termin">
 <h2>Termin 2020</h2><br />
 <table border="0" cellspacing="0" cellpadding="5">
-<tr><td><b>Wann:</b></td><td>Samstag, der 16. Februar 2020, 20:00 Uhr<br /><i>(Einlass ab 19 Uhr)</i></td></tr>
+<tr><td><b>Wann:</b></td><td>Samstag, der 08. Februar 2020, 20:00 Uhr<br /><i>(Einlass ab 19 Uhr)</i></td></tr>
 <tr><td><b>Wo:</b></td><td>Hans Herrmann Halle, Niedernberg (siehe <a href="weg.php">Wegbeschreibung</a>)</td></tr>
 <tr><td><b>Einlass ab:</b></td><td>16 Jahren. Ausweiskontrolle!</td></tr>
 <tr><td><b>Motto:</b></td><td>Jeder kommt im Schlafanzug!</td></tr>
