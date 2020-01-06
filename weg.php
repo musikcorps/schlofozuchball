@@ -7,7 +7,7 @@ include "template/headerMenu.php";
 <br />
 
 <h2>Ort</h2><br />
-<span class="big">Der Schlofozuchball findet 2019 wie jedes Jahr in der <b>Hans Herrmann Halle Niedernberg</b> statt.</span><br /><br />
+<span class="big">Der Schlofozuchball findet 2020 wie jedes Jahr in der <b>Hans Herrmann Halle Niedernberg</b> statt.</span><br /><br />
 Adresse:<br />
 <span class="big" id="adresse"><b>Leerweg<br />
 63843 Niedernberg</b></span>

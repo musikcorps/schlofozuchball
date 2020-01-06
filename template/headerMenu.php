@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <title>Schlofozuchball 2019</title>
+    <title>Schlofozuchball 2020</title>
     <link rel="stylesheet" type="text/css" href="css/default.css" />
 
     <meta charset="utf-8" />
