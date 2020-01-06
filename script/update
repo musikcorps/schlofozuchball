@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Usage: script/update 2019 2020 "08. Februar 2020"
+
+OLD_YEAR="$1"
+NEW_YEAR="$2"
+NEW_DATE="$3"
+
+find *.php template/*.php -type f -exec sed -i "s/$OLD_YEAR/$NEW_YEAR/g" {} \;
+
+sed -i "s/<td>Samstag, der .* $OLD_YEAR, 20:00 Uhr<br \/>/<td>Samstag, der $NEW_DATE, 20:00 Uhr<br \/>/g" index.php
+
