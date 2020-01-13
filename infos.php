@@ -36,7 +36,11 @@ Weitere Informationen zum Jugendschutz findest Du beim <a href="http://www.bmfsf
 <li>19 Uhr: die Halle wird geöffnet, Einlass der Gäste</li>
 <li>20 Uhr: offizieller Beginn des Schlofozuchballs!</li>
 </ul>
-<br />
+<p>
+    In diesem Jahr wird es am Einlass Bändchen geben. Diese kosten pro Person bis 21:00 6 Euro und danach 8 Euro.
+    Ein Verlassen des Veranstaltungsgeländes ist mit dem Band nicht möglich, der Veranstalter behält sich vor, dieses vor Verlassen zu entfernen.
+</p>
+
 
 <h2>Der Schlofozuchball hat Tradition</h2><br />
 Der Schlofozuchball hat <b>2009</b> seinen <b>30. Geburtstag</b> gefeiert! Man kann bei dieser langjährigen Tradition also schon vom "legendären Schlofozuchball" sprechen...<br /><br />Und weil der Schlofozuchball immer noch super gut bei Euch ankommt, veranstalten wir ihn auch dieses Jahr wieder!

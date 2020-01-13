@@ -25,9 +25,11 @@ Siehe auch <a href="infos.php">weitere Infos</a>.<br />
 <br /><br />
 
 <span id="schlafanzug-hinweis">
-Bitte zieh Dir einen Schlafanzug an. Wir können Dich sonst leider nicht in die Halle lassen.<br /><br />
-Der Schlafanzug ist das Motto der Party und sorgt für eine coole Atmosphäre! Wenn jeder im Schlafanzug kommt ist das auch nicht peinlich!<br /><br />
-Das Mindestalter ist 16 Jahre!
+<p>
+    Bitte zieh Dir einen Schlafanzug an. Wir können Dich sonst leider nicht in die Halle lassen.<br /><br />
+    Der Schlafanzug ist das Motto der Party und sorgt für eine coole Atmosphäre! Wenn jeder im Schlafanzug kommt ist das auch nicht peinlich!<br /><br />
+    Das Mindestalter ist 16 Jahre!
+</p>
 </span>
 
 </td><td class="separatorRight"></td><td>
@@ -40,6 +42,14 @@ Das Mindestalter ist 16 Jahre!
 <tr><td><b>Einlass ab:</b></td><td>16 Jahren. Ausweiskontrolle!</td></tr>
 <tr><td><b>Motto:</b></td><td>Jeder kommt im Schlafanzug!</td></tr>
 </table>
+</span>
+
+<br /><br />
+
+<span id="schlafanzug-hinweis">
+<p>In diesem Jahr wird es am Einlass Bändchen geben.</p>
+<p>Diese kosten pro Person bis 21:00 6 Euro und danach 8 Euro.</p>
+<p>Ein Verlassen des Veranstaltungsgeländes ist mit dem Band nicht möglich, der Veranstalter behält sich vor, dieses vor Verlassen zu entfernen.</p>
 </span>
 
 <!--<span id="schlofozuchball-vorbei-hinweis">

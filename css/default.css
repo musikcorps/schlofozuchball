@@ -24,7 +24,7 @@ a:hover {
 }
 
 /* ------------------------------------------------------------------------- */
-/* Überschriften */
+/* ï¿½berschriften */
 h1 {
 	font-size: 28pt;
 	font-weight: bold;
@@ -66,7 +66,7 @@ table#mainLayout td#header {
 }
 
 /* ------------------------------------------------------------------------- */
-/* Menü */
+/* Menï¿½ */
 table#mainLayout td#menu {
 	width: 150px;
 	background-color: #BB6060;
@@ -110,6 +110,7 @@ span#termin {
 	background-color: #FFB7B7;
 	border: 2px solid #BB6060;
 	padding: 10px;
+	width: 90%;
 }
 
 span#schlafanzug-hinweis {
@@ -117,12 +118,14 @@ span#schlafanzug-hinweis {
 	background-color: #B7FFB7;
 	border: 2px solid #60BB60;
 	padding: 10px;
+	width: 90%;
 }
 span#schlafanzug-hinweis-inactive {
 	display: inline-block;
 	background-color: #D7D7D7;
 	border: 2px solid #606060;
 	padding: 10px;
+	width: 90%;
 }
 
 span#schlofozuchball-vorbei-hinweis {
@@ -130,6 +133,7 @@ span#schlofozuchball-vorbei-hinweis {
 	background-color: #B7FFB7;
 	border: 2px solid #60BB60;
 	padding: 10px;
+	width: 90%;
 }
 
 table#indexLayout {
